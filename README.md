@@ -6,7 +6,7 @@
 
 Hi, I'm Justin. For over 20 years, I've been passionate about building the digital and social infrastructure that empowers open-source communities to connect, grow, and innovate. I'm a hands-on technical leader who excels at turning complex ideas into tangible, high-impact programs.
 
-As the Vice-Chair for **[Open Neuromorphic](https://open-neuromorphic.org)**, I help guide the strategic vision for a global community of over 2,300 members. My work is centered on creating an "enabling ecosystem"—building central hubs, fostering strategic partnerships, and architecting contributor funnels that empower people to collaborate and push the boundaries of technology together.
+As the Vice-Chair for **[Open Neuromorphic](https://open-neuromorphic.org)**, I help guide the strategic vision for a global community of over 2,500 members. My work is centered on creating an "enabling ecosystem"—building central hubs, fostering strategic partnerships, and architecting contributor funnels that empower people to collaborate and push the boundaries of technology together.
 
 - **Portfolio:** **[visioninit.dev](https://visioninit.dev)**
 - **Let's Connect:** **[LinkedIn](https://www.linkedin.com/in/riddiough/)**
