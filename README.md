@@ -24,15 +24,15 @@ I architected and led the complete revitalization of the community's central hub
 
 - **ONM Mission Board:** I conceived, built, and launched a platform that uses a GitHub Actions workflow to automatically scrape partner repositories for 'help wanted' issues, channeling community contributions to solve key ecosystem challenges.
 - **ONM Collaboration Network:** I established a formal partnership program to unify foundational open-source tools and amplify their collective reach through reciprocal linking and promotion.
-- **Governance & Strategy:** I co-developed the strategic vision, and governance for a global open-source foundation of over 2,500 members, helping to shape our mission and drive growth. I also authored the official Sponsorship Policy to ensure transparency and protect our community's editorial independence.
+- **Governance & Strategy:** I co-developed the strategic vision, organizational charter, and governance for a global open-source foundation of over 2,500 members, helping to shape our mission and drive growth. I also authored the official Sponsorship Policy to ensure transparency and protect our community's editorial independence.
 
 #### **aimodels.org (Founder, Acquired)**
 
 I founded, built, and successfully exited aimodels.org, a platform for discovering and collaborating on open-source AI models, demonstrating a full project lifecycle from concept to acquisition.
 
-#### **fmcheatsheet.org - Web Development Lead**
-
-I led the web development for this project, collaborating with researchers from Google, MIT, and Hugging Face to transform a dense academic paper into an accessible, interactive open-source resource.
+#### **Senior Web Developer - Stanford Graduate School of Business**
+- Gained deep insight into the operations and strategy of a world-class academic institution by developing and maintaining its complex digital platforms.
+- Partnered with the marketing department to align technical solutions with organizational storytelling, shaping my understanding of how to build and market a premier digital product for a global audience.
 
 ---
 
@@ -58,4 +58,4 @@ I led the web development for this project, collaborating with researchers from 
 I'm always open to discussing new projects, open-source collaborations, or strategic technical challenges.
 
 - **Schedule a Chat:** **[cal.com/visioninit/30min](https://cal.com/visioninit/30min)**
-- **Connect on LinkedIn:** **[/in/riddiough](https://www.linkedin.com/in/riddiough/)
+- **Connect on LinkedIn:** **[/in/riddiough](https://www.linkedin.com/in/riddiough/)**
