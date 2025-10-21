@@ -1,4 +1,4 @@
-### **Justin Riddiough (neural-loop)**
+### **Justin Riddiough**
 
 #### Open-Source Leader | Community Architect | Developer Advocate
 
