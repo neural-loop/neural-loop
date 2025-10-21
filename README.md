@@ -30,7 +30,7 @@ I architected and led the complete revitalization of the community's central hub
 
 I founded, built, and successfully exited aimodels.org, a platform for discovering and collaborating on open-source AI models, demonstrating a full project lifecycle from concept to acquisition.
 
-#### **Senior Web Developer - Stanford Graduate School of Business**
+#### **Senior Web Developer - Stanford Graduate School of Business** (2017-2020)
 - Gained deep insight into the operations and strategy of a world-class academic institution by developing and maintaining its complex digital platforms.
 - Partnered with the marketing department to align technical solutions with organizational storytelling, shaping my understanding of how to build and market a premier digital product for a global audience.
 
