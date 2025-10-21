@@ -24,7 +24,7 @@ I architected and led the complete revitalization of the community's central hub
 
 - **ONM Mission Board:** I conceived, built, and launched a platform that uses a GitHub Actions workflow to automatically scrape partner repositories for 'help wanted' issues, channeling community contributions to solve key ecosystem challenges.
 - **ONM Collaboration Network:** I established a formal partnership program to unify foundational open-source tools and amplify their collective reach through reciprocal linking and promotion.
-- **Governance & Strategy:** I co-developed the strategic vision, organizational charter, and governance for a global open-source foundation of over 2,300 members, helping to shape our mission and drive growth. I also authored the official Sponsorship Policy to ensure transparency and protect our community's editorial independence.
+- **Governance & Strategy:** I co-developed the strategic vision, and governance for a global open-source foundation of over 2,500 members, helping to shape our mission and drive growth. I also authored the official Sponsorship Policy to ensure transparency and protect our community's editorial independence.
 
 #### **aimodels.org (Founder, Acquired)**
 
