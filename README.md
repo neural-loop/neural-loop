@@ -1,70 +1,61 @@
-# Justin Riddiough (neural-loop)
+### **Justin Riddiough (neural-loop)**
 
-### Strategic Digital Solutions Partner & Open-Source Community Builder
-
----
-
-Hi, I'm Justin. I build secure, scalable, and effective digital platforms. With over 20 years of hands-on experience, my work spans full-stack web development, cloud infrastructure, web security, and strategic technical leadership.
-
-My focus is on creating technology that not only solves problems but also elevates digital communication and fosters collaborative communities.
-
--  portfolio **[visioninit.dev](https://visioninit.dev)**
-- social **[LinkedIn](https://www.linkedin.com/in/riddiough/)**
-- code **[GitHub](https://github.com/neural-loop)**
+#### Open-Source Leader | Community Architect | Developer Advocate
 
 ---
 
-## 🚀 Key Projects & Initiatives
+Hi, I'm Justin. For over 20 years, I've been passionate about building the digital and social infrastructure that empowers open-source communities to connect, grow, and innovate. I'm a hands-on technical leader who excels at turning complex ideas into tangible, high-impact programs.
 
-### Open Neuromorphic (ONM) - Web & Community Platform Lead
-As Vice-Chair of the ONM Executive Committee, I lead the technical strategy for our digital presence. I serve as the **sole developer of the [Open Neuromorphic website](https://open-neuromorphic.org)**, translating the strategic vision of the committee into a robust, community-centric platform.
+As the Vice-Chair for **[Open Neuromorphic](https://open-neuromorphic.org)**, I help guide the strategic vision for a global community of over 2,300 members. My work is centered on creating an "enabling ecosystem"—building central hubs, fostering strategic partnerships, and architecting contributor funnels that empower people to collaborate and push the boundaries of technology together.
 
-- **Tech Stack:** Hugo, Tailwind CSS, JavaScript, GitHub Actions for CI/CD.
-- **Key Contributions:**
-  - Architected and built the entire Hugo site from the ground up.
-  - Implemented automated OG image generation, a dynamic software/hardware directory, and event management.
-  - Configured and branded community tools, including Streamyard and Discord, to enhance engagement.
-  - Drove SEO strategy that positioned ONM as a leading authority for key industry terms like "neuromorphic hardware."
-- **[Live Site](https://open-neuromorphic.org) | [GitHub Repo](https://github.com/open-neuromorphic/open-neuromorphic.github.io)**
-
-### VisionInit - Founder & Principal Consultant
-VisionInit is my consultancy, through which I provide expert digital solutions. The portfolio details my extensive project history, from security research to large-scale application development for non-profits, academic institutions, and commercial ventures.
-
-- **Services:** Custom Web Application Development, Web Security & Ethical Hacking, Cloud Infrastructure & DevOps, AI & Data Integration.
-- **[View Portfolio & Services](https://visioninit.dev)**
-
-### AI Models Platform (Acquired)
-I founded and developed **aimodels.org**, a platform dedicated to open-source AI innovation. I managed the project from conception to a successful acquisition in 2024.
-
-- **Impact:** Grew the platform to achieve top SEO rankings for competitive terms like "Download AI Models" and "Open Source AI Communities."
-- **Innovation:** Engineered a large-scale data pipeline that used ~450 RVC models to generate ~12,000 unique audio samples, driving significant user engagement.
+- **Portfolio:** **[visioninit.dev](https://visioninit.dev)**
+- **Let's Connect:** **[LinkedIn](https://www.linkedin.com/in/riddiough/)**
+- **My Code:** **[GitHub](https://github.com/neural-loop)**
 
 ---
 
-## 💡 My Approach
+### **🚀 Key Projects & Initiatives**
 
-My work is guided by a few core principles:
+My work focuses on the intersection of technology, community, and strategy. Here are a few highlights:
 
-> **Pragmatic & Effective:** I focus on solutions that work reliably and meet business goals, drawing on real-world operational experience.
+#### **Open Neuromorphic (ONM) - Vice-Chair & Lead Community Architect**
+
+I architected and led the complete revitalization of the community's central hub, redesigning **[open-neuromorphic.org](https://open-neuromorphic.org)** with strategic "contributor funnels" to guide new users from discovery to active participation.
+
+- **ONM Mission Board:** I conceived, built, and launched a platform that uses a GitHub Actions workflow to automatically scrape partner repositories for 'help wanted' issues, channeling community contributions to solve key ecosystem challenges.
+- **ONM Collaboration Network:** I established a formal partnership program to unify foundational open-source tools and amplify their collective reach through reciprocal linking and promotion.
+- **Governance & Strategy:** I co-developed the strategic vision, organizational charter, and governance for a global open-source foundation of over 2,300 members, helping to shape our mission and drive growth. I also authored the official Sponsorship Policy to ensure transparency and protect our community's editorial independence.
+
+#### **aimodels.org (Founder, Acquired)**
+
+I founded, built, and successfully exited aimodels.org, a platform for discovering and collaborating on open-source AI models, demonstrating a full project lifecycle from concept to acquisition.
+
+#### **fmcheatsheet.org - Web Development Lead**
+
+I led the web development for this project, collaborating with researchers from Google, MIT, and Hugging Face to transform a dense academic paper into an accessible, interactive open-source resource.
+
+---
+
+### **💡 My Approach & What I Bring to the Table**
+
+> **I build the strategy and the tools to back it up.** I enjoy co-developing the vision and governance for an open-source community, but I don't stop there. I believe in building the platforms and automated workflows that bring that strategy to life and lower the barrier to entry for everyone.
 >
-> **Security by Design:** Security isn't an add-on; it's integrated from the start. My approach is validated by contributions to bug bounty programs at Stanford and HackerOne.
+> **I create value from the ground up.** I have a knack for turning a concept into a tangible asset. I also find unconventional ways to mobilize resources, like earning ~$2,000 in bug bounties from Stanford and HackerOne by identifying and fixing critical security vulnerabilities.
 >
-> **Championing Open Source:** I actively contribute to the open-source ecosystem, believing in its power to drive innovation, accessibility, and collaborative progress.
->
-> **Clear Communication:** Translating complex technical challenges for all stakeholders is paramount to ensuring alignment and delivering successful outcomes.
+> **I connect people and ideas.** The best communities are built on shared understanding. I excel at translating deep technical concepts for diverse audiences and fostering a culture of collaboration. I believe in building the digital spaces where both experts and newcomers feel empowered to contribute.
 
-## 🛠️ Technical Expertise
+### **🛠️ Skills & Expertise**
 
-- **Languages & Frameworks:** PHP (Drupal), Python (Hugo, Flask), Node.js, JavaScript (Vue, jQuery)
-- **Cloud & DevOps:** Google Cloud Platform (Cloud Run, Build, SQL), AWS Fundamentals, CI/CD (GitHub Actions), Nginx, Docker
-- **Web Security:** Vulnerability Assessment, Secure SDLC, Ethical Hacking, Bug Bounty Hunting
-- **Content & SEO:** Technical SEO, Content Strategy, Performance Optimization
+- **Leadership & Strategy:** Community Growth Strategy, Strategic Planning, Governance & Policy, Open Source Advocacy, Contributor Onboarding & Engagement.
+- **Community & Content:** Forum Management, Developer Relations (DevRel), Content Strategy, Technical & Non-Technical Communication, Event Management (Webcasts).
+- **Technical & DevOps:** Full-Stack Web Development (Python, JS, Drupal), Cloud Infrastructure (GCP, AWS), GitHub Actions (CI/CD), Docker, Kubernetes, Linux System Administration.
+- **Security Mindset:** Web Security & Ethical Hacking (Bug Bounty Hunting), Proactive Vulnerability Reporting, Secure Development Practices.
 
 ---
 
-## 📫 Let's Connect
+### **📫 Let's Collaborate**
 
 I'm always open to discussing new projects, open-source collaborations, or strategic technical challenges.
 
-- **Schedule a Consultation:** [**cal.com/visioninit**](https://cal.com/visioninit/30min)
-- **Connect on LinkedIn:** [**/in/riddiough**](https://www.linkedin.com/in/riddiough/)
+- **Schedule a Chat:** **[cal.com/visioninit/30min](https://cal.com/visioninit/30min)**
+- **Connect on LinkedIn:** **[/in/riddiough](https://www.linkedin.com/in/riddiough/)
