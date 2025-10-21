@@ -26,6 +26,10 @@ I architected and led the complete revitalization of the community's central hub
 - **ONM Collaboration Network:** I established a formal partnership program to unify foundational open-source tools and amplify their collective reach through reciprocal linking and promotion.
 - **Governance & Strategy:** I co-developed the strategic vision, organizational charter, and governance for a global open-source foundation of over 2,500 members, helping to shape our mission and drive growth. I also authored the official Sponsorship Policy to ensure transparency and protect our community's editorial independence.
 
+#### **fmcheatsheet.org - Web Development Lead**
+
+I led the web development for this project, collaborating with researchers from Google, MIT, and Hugging Face to transform a dense academic paper into an accessible, interactive open-source resource.
+
 #### **aimodels.org (Founder, Acquired)**
 
 I founded, built, and successfully exited aimodels.org, a platform for discovering and collaborating on open-source AI models, demonstrating a full project lifecycle from concept to acquisition.
